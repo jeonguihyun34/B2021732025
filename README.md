@@ -1,4 +1,4 @@
-# B2021732025
+# A2021732025
 
 # AI Application - Week 5
 
@@ -16,3 +16,14 @@
 - Pull Request
 - Collaborator
 - Fork
+
+## Repository Practice
+
+This repository is used for GitHub collaboration practice.
+
+### What I learned
+
+- Git Repository
+- Commit
+- Branch
+- Pull Request
