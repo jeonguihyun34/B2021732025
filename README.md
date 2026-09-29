@@ -17,7 +17,11 @@
 - Collaborator
 - Fork
 
+<<<<<<< HEAD
 ## Repository Practice
+=======
+- ## Repository Practice
+>>>>>>> 26db1498e49964805eab9fa5010050715d10a595
 
 This repository is used for GitHub collaboration practice.
 
@@ -27,4 +31,7 @@ This repository is used for GitHub collaboration practice.
 - Commit
 - Branch
 - Pull Request
+<<<<<<< HEAD
 - Pull Request
+=======
+>>>>>>> 26db1498e49964805eab9fa5010050715d10a595
